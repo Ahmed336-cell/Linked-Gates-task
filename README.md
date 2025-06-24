@@ -48,4 +48,3 @@
 
 ---
 
-Feel free to customize this README for your own project or add more details as needed!
