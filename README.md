@@ -6,9 +6,11 @@
 
 ## Screenshots
 
-![App Screenshot 1](screenshots1.png)
-![App Screenshot 2](screenshots2.png)
-
+<p align="center">
+  <img src="screenshots1.png" alt="App Screenshot 1" width="200"/>
+  &nbsp;&nbsp;
+  <img src="screenshots2.png" alt="App Screenshot 2" width="200"/>
+</p>
 ## Steps to Run the Project
 
 1. **Clone the repository:**
