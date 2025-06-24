@@ -1,14 +1,19 @@
-# apitask
+# Linked-Gates-task
 
 ## Project Overview
 
-**apitask** is a modern Flutter e-commerce demo app that displays a list of products fetched from an API. It features a clean, responsive UI, shimmer loading effects, robust error handling, and follows best practices for state management and architecture (using Cubit/BLoC and Clean Architecture principles).
+**Linked-Gates-task** is a modern Flutter e-commerce demo app that displays a list of products fetched from an API. It features a clean, responsive UI, shimmer loading effects, robust error handling, and follows best practices for state management and architecture (using Cubit/BLoC and Clean Architecture principles).
+
+## Screenshots
+
+![App Screenshot 1](screenshots1.png)
+![App Screenshot 2](screenshots2.png)
 
 ## Steps to Run the Project
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Ahmed336-cell/Linked-Gates-task.git
    cd apitask
    ```
 
